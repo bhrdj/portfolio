@@ -21,11 +21,14 @@
     - webapp: [predwikt.bhrdwj.net](https://predwikt.bhrdwj.net) 
       - LANDING PAGE NEEDS UPDATING
       - FOR FORECASTS PAGE, GRAPHS SHOULD MOVE TO THE TOP
-      - NEED TO INCLUDE THE SCHEMATIC OF SQL ETL PROCESS
-      - NEED TO ALLOW INTERACTIVE QUERYING OF DATABASE FROM THE STREAMLIT APP
+      - INCLUDE SCHEMATIC OF SQL ETL PROCESS
+      - WHEN I HAVE TIME:
+        - enable interactive querying of database from streamlit app
+        - utilize pageviews for predictions
     - github: [github.com/bhrdwj/predwikt](https://github.com/bhrdj/predwikt)
       - NEED TO ENTIRELY REDO THE README.MD FOR THIS
-      - NEED TO ENTIRELY REFACTOR THE NOTEBOOKS AND CODE FOR THIS
+      - WHEN I HAVE TIME:
+        - entirely refactor and reorganize the notebooks and code
 - tunasoma
   - *Prototype: Wearable app leveraging speech-to-text for earlier toddler reading.*
     - 4-minute presentation video: [tunasoma.bhrdwj.net](https://tunasoma.bhrdwj.net)
