@@ -3,7 +3,6 @@
 ### Portfolio portal links:
 - portfolio webpage
   - [portfolio.bhrdwj.net](https://portfolio.bhrdwj.net)
-  - NOT BUILT YET
 - web resume
   - [resume.bhrdwj.net](https://resume.bhrdwj.net) 
   - NOT HOSTED YET
