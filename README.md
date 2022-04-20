@@ -11,7 +11,7 @@
 ### Portfolio project summaries and links:
 - rongzi
   - *Find optimal network paths connecting Chinese characters based on shared components*
-    - webapp: [rongzi.bhrdwj.net](http://rongzi.bhrdwj.net)  
+    - webapp: [rongzi.bhrdwj.net](https://rongzi.bhrdwj.net)  
       - WEB FORWARDING BLOCKED BY SOME FIREWALLS (IN THIS LIBRARY FOR INSTANCE)
       - LET'S TRY PUTTING IT ON STREAMLIT WITH HTTPS AND SEE IF THAT FIXES IT
       - (WILL NEED TO REMOVE THE DOWNLOAD-PDF OPTION)
