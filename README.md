@@ -1,12 +1,14 @@
 # bhrdwj portfolio: full-stack data science
 
-#### Portfolio portal links:
+### Portfolio portal links:
 - portfolio webpage
   - [portfolio.bhrdwj.net](portfolio.bhrdwj.net)
 - web resume
   - [resume.bhrdwj.net](resume.bhrdwj.net)
 
-#### Portfolio project summaries and links:
+---
+
+### Portfolio project summaries and links:
 - rongzi
   - Find optimal network paths connecting Chinese characters based on shared components
     - webapp [rongzi.bhrdwj.net](rongzi.bhrdwj.net)
