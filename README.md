@@ -1,11 +1,12 @@
-# bhrdwj portfolio: full-stack data science
+# Steven Bhardwaj's Full-Stack Data Science Portfolio
 
 ### Portfolio portal links:
 - portfolio webpage
   - [portfolio.bhrdwj.net](https://portfolio.bhrdwj.net)
+  - WAITING ON HTTPS WITH WEBHOST & GITHUB
 - web resume
   - [resume.bhrdwj.net](https://resume.bhrdwj.net) 
-  - NOT HOSTED YET
+  - REFORMAT AS A GOOGLE DOC
 
 ---
 
@@ -13,8 +14,7 @@
 - rongzi
   - *Find optimal network paths connecting Chinese characters based on shared components*
     - webapp: [rongzi.bhrdwj.net](https://rongzi.bhrdwj.net)  
-      - WAITING FOR THE WEB FORWARDING LINK TO UPDATE
-      - github: [github.com/bhrdwj/rongzi](https://github.com/bhrdj/rongzi)
+    - github: [github.com/bhrdwj/rongzi](https://github.com/bhrdj/rongzi)
 - predwikt
   - *Forecast wikipedia traffic based on wikipedia dumps converted into time series.*
     - webapp: [predwikt.bhrdwj.net](https://predwikt.bhrdwj.net) 
