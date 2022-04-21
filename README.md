@@ -18,8 +18,6 @@
 - predwikt
   - *Forecast wikipedia traffic based on wikipedia dumps converted into time series.*
     - webapp: [predwikt.bhrdwj.net](https://predwikt.bhrdwj.net) 
-      - LANDING PAGE NEEDS UPDATING
-      - FOR FORECASTS PAGE, GRAPHS SHOULD MOVE TO THE TOP
       - INCLUDE SCHEMATIC OF SQL ETL PROCESS
       - WHEN I HAVE TIME:
         - enable interactive querying of database from streamlit app
