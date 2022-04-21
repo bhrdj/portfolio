@@ -17,9 +17,6 @@
   - *Forecast wikipedia traffic based on wikipedia dumps converted into time series.*
     - webapp: [predwikt.bhrdwj.net](https://predwikt.bhrdwj.net) 
     - github: [github.com/bhrdwj/predwikt](https://github.com/bhrdj/predwikt)
-      - NEED TO ENTIRELY REDO THE README.MD FOR THIS
-      - WHEN I HAVE TIME:
-        - entirely refactor and reorganize the notebooks and code
 - tunasoma
   - *Prototype: Wearable app leveraging speech-to-text for earlier toddler reading.*
     - 4-minute presentation video: [tunasoma.bhrdwj.net](https://tunasoma.bhrdwj.net)
