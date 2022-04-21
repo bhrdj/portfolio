@@ -3,10 +3,8 @@
 ### Portfolio portal links:
 - portfolio webpage
   - [portfolio.bhrdwj.net](https://portfolio.bhrdwj.net)
-  - WAITING ON HTTPS WITH WEBHOST & GITHUB
 - web resume
   - [resume.bhrdwj.net](https://resume.bhrdwj.net) 
-  - REFORMAT AS A GOOGLE DOC
 
 ---
 
