@@ -5,7 +5,7 @@
 <ul>
   <li><i>Find optimal network paths connecting Chinese characters based on shared components</i></li>
   <li>webapp: <a href="https://rongzi.bhrdwj.net">rongzi.bhrdwj.net</a></li>
-  <li>github: <a href="https://github.com/bhrdj/rongzi">github.com/bhrdwj/rongzi</li>
+  <li>github: <a href="https://github.com/bhrdj/rongzi">github.com/bhrdwj/rongzi</a></li>
 </ul>
 
 #### test
