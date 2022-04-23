@@ -18,9 +18,5 @@
 <h3>tunasoma</h3>
 <p><i>Prototype: Wearable app leveraging speech-to-text for earlier toddler reading.</i></p>
 <ul>
-  <li>webapp: <a href="https://tunasoma.bhrdwj.net">tunasoma.bhrdwj.net</a></li>
+  <li>4-minute presentation video: <a href="https://tunasoma.bhrdwj.net">tunasoma.bhrdwj.net</a></li>
 </ul>
-
-- 
-  - **
-    - 4-minute presentation video: [tunasoma.bhrdwj.net](https://tunasoma.bhrdwj.net)
