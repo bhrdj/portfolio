@@ -8,12 +8,19 @@
   <li>github: <a href="https://github.com/bhrdj/rongzi">github.com/bhrdwj/rongzi</a></li>
 </ul>
 
-#### test
+<h3>predwikt</h3>
+<p><i>Forecast wikipedia traffic based on wikipedia dumps converted into time series.</i></p>
+<ul>
+  <li>webapp: <a href="https://predwikt.bhrdwj.net">predwikt.bhrdwj.net</a></li>
+  <li>github: <a href="https://github.com/bhrdj/predwikt">github.com/bhrdwj/predwikt</a></li>
+</ul>
 
-- predwikt
-  - *Forecast wikipedia traffic based on wikipedia dumps converted into time series.*
-    - webapp: [predwikt.bhrdwj.net](https://predwikt.bhrdwj.net) 
-    - github: [github.com/bhrdwj/predwikt](https://github.com/bhrdj/predwikt)
-- tunasoma
-  - *Prototype: Wearable app leveraging speech-to-text for earlier toddler reading.*
+<h3>tunasoma</h3>
+<p><i>Prototype: Wearable app leveraging speech-to-text for earlier toddler reading.</i></p>
+<ul>
+  <li>webapp: <a href="https://tunasoma.bhrdwj.net">tunasoma.bhrdwj.net</a></li>
+</ul>
+
+- 
+  - **
     - 4-minute presentation video: [tunasoma.bhrdwj.net](https://tunasoma.bhrdwj.net)
