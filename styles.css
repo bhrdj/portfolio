@@ -1,0 +1,6 @@
+/*!
+ * Table styles for portfolio
+ */
+
+table, th, td {border: 2px solid gray;}
+table {width= 90%}
