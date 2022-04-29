@@ -1,0 +1,6 @@
+prj_name;link_name;link_text;link_link;github_link;blurb;img_path
+rongzi;webapp;rongzi.bhrdwj.net;https://rongzi.bhrdwj.net;https://github.com/bhrdwj/rongzi;Find optimal network paths connecting Chinese characters based on shared components.;img/paths.png
+predwikt;webapp;predwikt.bhrdwj.net;https://predwikt.bhrdwj.net;https://github.com/bhrdwj/predwikt;Forecast wikipedia traffic based on wikipedia dumps converted into time series.;img/predwikt.png
+tunasoma;4min prototype demo;tunasoma.bhrdwj.net;https://tunasoma.bhrdwj.net;;Prototype: Wearable app leveraging speech-to-text for earlier toddler reading.;img/tunasoma.jpg
+Early Reading;1min video;rekatwige.org;https://rekatwige.org;;Early Reading programs in Rwanda.<br>Economic Development project, not data science.;img/early_reading.jpg
+
