@@ -1,3 +1,4 @@
 *.swp
 .ipynb_checkpoints
 .~lock.projects.csv#
+.DS_Store
